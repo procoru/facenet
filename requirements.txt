@@ -7,3 +7,4 @@ matplotlib
 Pillow
 requests
 psutil
+bleach>=3.1.2 # not directly required, pinned by Snyk to avoid a vulnerability
